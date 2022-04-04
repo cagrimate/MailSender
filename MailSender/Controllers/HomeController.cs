@@ -29,18 +29,7 @@ namespace MailSender.Controllers
             smtp.Port = 587;
 
             //------------------------------------------------------------------------->
-            // gmail smtp settings
-            //SMTP Host Name: smtp.gmail.com
-            //SMTP user name: gmail mail address //-- example: mail@gmail.com 
-            //SMTP Password: Your Gmail password
-            //SMTP Port: 587 / 465
-            //TLS / SSL: yes
-
-            //Yahoo Mail SMTP Host Address : smtp.mail.yahoo.com
-            //Yahoo Mail SMTP user name : your yahoo mail address xyz@yahoo.com
-            //Yahoo Mail SMTP password : your yahoo mail password
-            //Yahoo Mail SMTP port:465  or 587
-            //Yahoo Mail SMTP TLS / SSL yes
+            //please look at the READ.ME files. you can findthere different mail providers smtp settings.
             //------------------------------------------------------------------------->
 
             //---->>> 
